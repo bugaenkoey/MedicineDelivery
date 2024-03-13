@@ -1,0 +1,12 @@
+.shops>div {
+width: 200px;
+    color: red;
+    border-color: blue;
+    border-style: solid;
+}
+.products{
+    display: grid;
+}
+.products>div{
+    width: 220px;
+}

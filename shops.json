@@ -1,0 +1,42 @@
+{
+  "apothecaries": [
+    {
+      "name": "Apteka1",
+      "address": "вул. Аптекарська, 1",
+      "phone": "+380123456789",
+      "medicines": [
+        {
+          "name": "Лік1",
+          "description": "Короткий опис ліку 1",
+          "price": 25.99,
+          "quantity": 50
+        },
+        {
+          "name": "Лік2",
+          "description": "Короткий опис ліку 2",
+          "price": 15.49,
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "name": "Apteka2",
+      "address": "вул. Аптекарська, 2",
+      "phone": "+380987654321",
+      "medicines": [
+        {
+          "name": "Лік1",
+          "description": "Короткий опис ліку 1",
+          "price": 26.11,
+          "quantity": 5
+        },
+        {
+          "name": "Лік2",
+          "description": "Короткий опис ліку 2",
+          "price": 11.91,
+          "quantity": 35
+        }
+      ]
+    }
+  ]
+}
